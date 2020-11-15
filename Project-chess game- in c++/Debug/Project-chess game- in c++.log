@@ -1,0 +1,6 @@
+﻿  Board.cpp
+C:\Users\Ruslan\source\repos\Project-chess game- in c++\Project-chess game- in c++\Board.cpp(648): warning C4715: 'Board::bishop_validation': not all control paths return a value
+C:\Users\Ruslan\source\repos\Project-chess game- in c++\Project-chess game- in c++\Board.cpp(807): warning C4715: 'Board::queen_validation': not all control paths return a value
+C:\Users\Ruslan\source\repos\Project-chess game- in c++\Project-chess game- in c++\Board.cpp(1466): warning C4715: 'Board::chess_val_DOWN_LEFT': not all control paths return a value
+C:\Users\Ruslan\source\repos\Project-chess game- in c++\Project-chess game- in c++\Board.cpp(1496): warning C4715: 'Board::chess_val_DOWN_RIGHT': not all control paths return a value
+  Project-chess game- in c++.vcxproj -> C:\Users\Ruslan\source\repos\Project-chess game- in c++\Debug\Project-chess game- in c++.exe

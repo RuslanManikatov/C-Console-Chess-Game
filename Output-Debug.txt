@@ -1,0 +1,14 @@
+﻿'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Users\Ruslan\source\repos\Project-chess game- in c++\Debug\Project-chess game- in c++.exe'. Symbols loaded.
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2a40 has exited with code 0 (0x0).
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Project-chess game- in c++.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x2fb8 has exited with code 0 (0x0).
+The thread 0xd28 has exited with code 0 (0x0).
+The program '[20952] Project-chess game- in c++.exe' has exited with code 0 (0x0).
